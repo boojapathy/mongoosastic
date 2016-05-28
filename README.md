@@ -9,6 +9,8 @@
 
 Mongoosastic is a [mongoose](http://mongoosejs.com/) plugin that can automatically index your models into [elasticsearch](http://www.elasticsearch.org/).
 
+Whats Patched: Added support for parent and routing fields
+
 - [Installation](#installation)
 - [Setup](#setup)
 - [Indexing](#indexing)
